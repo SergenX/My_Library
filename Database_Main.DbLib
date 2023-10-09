@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Resistors$
+LastFocusedTable=Capacitors$
 [Table1]
 SchemaName=
 TableName=Capacitors$
@@ -35,18 +35,12 @@ TableName=Connectors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Name0=52|Description0=82|Footprint Ref0=92|Footprint Path0=98|Library Ref0=77|Library Path0=83
 [Table3]
 SchemaName=
 TableName=Resistors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Name0=76|Description0=94|Footprint Ref0=92|Footprint Path0=173|Library Ref0=77|Library Path0=173
 [FieldMap1]
 Options=FieldName=Capacitors$.Name|TableNameOnly=Capacitors$|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
