@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Capacitors$
+LastFocusedTable=Connectors$
 [Table1]
 SchemaName=
 TableName=Capacitors$
