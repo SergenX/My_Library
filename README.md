@@ -3,7 +3,7 @@
 
 **Created By SergenX**
 
-*Instagram : Sergen Piri (Pls Follow Me)*
+*LinkedIn : Sergen Piri *
 
 **//Library Information//**
 0201-1210 Surface SMD Resistors , Capacitors & Connectors 
