@@ -26,6 +26,9 @@ TableName=Capacitors$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=84|Description0=125|Footprint Ref0=92|Footprint Path0=189|Library Ref0=77|Library Path0=189
 [Table2]
 SchemaName=
 TableName=Connectors$
